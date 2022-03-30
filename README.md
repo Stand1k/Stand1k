@@ -5,7 +5,7 @@
 - 🔭 Currently, I'm working on creating amazing games and improving myself as a developer. 
 - 🎮 I study game design in my spare time.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Technology+Stack%3A;SOLID%2C+Zenject%2C+DOTween%2C+Git+etc.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=00F7F1&background=FFFFFF00&lines=Very+glad+to+see+you+on+my+profile!)](https://git.io/typing-svg)
 -
  <h3 align="left">📫 Connect with me:</h3>
 <p align="left"> 
